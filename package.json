@@ -21,7 +21,7 @@
     "popper": "^1.0.1",
     "popper.js": "^1.16.1",
     "react": ">15.3.0",
-    "react-addons-shallow-compare": "15.3.0",
+    "react-addons-shallow-compare": "15.6.3",
     "react-contenteditable": ">2.0.1",
     "react-dom": ">15.3.0",
     "react-redux": ">4.4.5",
